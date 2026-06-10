@@ -26,11 +26,10 @@ Go to your local SFML folder (`SFML-2.6.2/bin/`) and copy the following **3 DLL 
 ### 4. Run the Game
 Once the `.dll` files are sitting right next to your `main.exe` and your font asset path is correct, simply double-click `main.exe` to launch the game!
 
-GAMEPLAY:
+
 <img width="395" height="623" alt="gameplay" src="https://github.com/user-attachments/assets/e4348112-1830-49ea-ad07-e29a69a96653" />
 
 
-GAMEOVER
 <img width="402" height="631" alt="gameover" src="https://github.com/user-attachments/assets/f292eecc-b618-4466-8d93-229330fc5a23" />
 
 
